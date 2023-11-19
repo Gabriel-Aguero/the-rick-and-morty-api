@@ -1,8 +1,15 @@
-# React + Vite
+# THE RICK AND MORTY API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Mi nombre es Gabriel Agüero, soy Programador Front end. Continúo aprendiendo día a día y creando proyectos para mejorar y superarme.
 
-Currently, two official plugins are available:
+He trabajado en diferentes proyectos como sitios webs, aplicaciones moviles, entre otros. 
+### Si quieres contactarte conmigo no dudes en escribirme.
+📧 gabrielhaguero@gmail.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Esta aplicación la realicé a traves del consumo de una API pública.
+Se utilizó React, Tailwindcss, react icons.
+
+La aplicación fue creada a fines de mejorar la práctica profesional y personal.
+
+
