@@ -4,6 +4,7 @@ import { Cards } from './components/Cards'
 import { Paginacion } from './components/Paginacion'
 import { useState } from 'react'
 import {Navbar } from './components/Navbar'
+import { Footer } from './components/Footer'
 
 function App() {
   const [page, setPage] = useState(1)
@@ -14,7 +15,7 @@ function App() {
   )
 
   return (
-    <main>
+    <main className='container mx-auto'>
       <Navbar />
         <Paginacion
           prev={info?.prev}
@@ -31,7 +32,7 @@ function App() {
           page={page}
           setPage={setPage}
         />
-      
+        <Footer />
     </main>
   )
 }
